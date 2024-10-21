@@ -23,21 +23,11 @@ ADAYS is a platform aimed at enhancing health and well-being. With a modular arc
 - **Backend API Integration**: Well-structured API endpoints to handle user data, health metrics, and more.
 - **Database Management**: Integrated Prisma ORM to simplify database operations with MySQL.
 
-## 📂 Project Structure
 
-```bash
-├── components         # Reusable React components
-├── pages              # Next.js pages with server-side rendering
-├── prisma             # Prisma ORM setup and schema
-├── public             # Static files (images, etc.)
-├── styles             # Styled Components for theming and layout
-├── api                # Backend API logic
-└── utils              # Helper functions and utility logic
-```
-##⚡️ Key Learnings
+## ⚡️ Key Learnings
 
 Working on this project, I refined several essential skills:
 
-- **Efficient full-stack development: Building both the client and server sides of a project with seamless API integration.
-- **Database design and optimization: Creating an efficient schema for user data and health metrics.
-- **Code scalability and reusability: Through React's component-based architecture and TypeScript's type safety.
+- **Efficient** full-stack development: Building both the client and server sides of a project with seamless API integration.
+- **Database** design and optimization: Creating an efficient schema for user data and health metrics.
+- **Code** scalability and reusability: Through React's component-based architecture and TypeScript's type safety.
