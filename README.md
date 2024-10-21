@@ -1,6 +1,6 @@
 # ADAYS - Full-Stack Health & Well-Being Platform
 
-![ADAYS Banner](https://your-image-link.com) <!-- You can add a relevant project image/banner here -->
+
 
 Welcome to **ADAYS**, a comprehensive health and well-being platform designed and developed using modern full-stack web technologies. This project showcases my expertise in creating scalable, maintainable applications with cutting-edge tools like **Next.js**, **React**, **MySQL**, **JavaScript**, and **TypeScript**.
 
