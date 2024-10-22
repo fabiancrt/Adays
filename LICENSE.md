@@ -42,4 +42,4 @@ This Agreement constitutes the entire agreement between the parties regarding th
 
 ---
 
-**By using the Jarvis AI Assistant, you agree to the terms and conditions outlined in this License Agreement.**
+**By using the Adays Project, you agree to the terms and conditions outlined in this License Agreement.**
